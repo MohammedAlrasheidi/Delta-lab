@@ -1,0 +1,41 @@
+/* custom-style.css */
+
+/* Navbar customization */
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+/* Card customization */
+.card {
+  margin-top: 30px;
+}
+
+.card-title {
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.card-text {
+  color: #555;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+/* Button customization */
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+/* Footer customization */
+.footer {
+  background-color: #f8f9fa;
+  color: #666;
+  text-align: center;
+}
